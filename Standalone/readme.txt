@@ -1,4 +1,4 @@
-ECS Builder Demo
+ECS Wordpress Builder Demo
 
 Script Prerequisites:
 *AWS CLI
@@ -11,7 +11,7 @@ Instructions:
 *Unzip file and move Demo folder to somewhere easy to find.
 *Ensure the following files are in your Demo folder:
 -build.sh
--Config
+-Config.sh
 -ecs-instance-role.json
 -task.json
 -userdata.txt
