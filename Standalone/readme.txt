@@ -11,6 +11,7 @@ Instructions:
 *Unzip file and move Demo folder to somewhere easy to find.
 *Ensure the following files are in your Demo folder:
 -build.sh
+-Config
 -ecs-instance-role.json
 -task.json
 -userdata.txt
